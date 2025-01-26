@@ -8,6 +8,7 @@
 // @match        *www.nationstates.net/page=deck
 // @match        *www.nationstates.net/*page=deck*
 // @grant        none
+// ==/UserScript==
 (function () {
     'use strict';
     document.querySelectorAll('.flipped')
